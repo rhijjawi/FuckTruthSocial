@@ -1,5 +1,5 @@
 # FuckTruthSocial
-It really seems like Trump is trying to get his own social media started. Not a huge fan tbh.
+It really seems like Trump is trying to get his own social media started. Not a huge fan tbh. (When TruthSocial actually releases, I'll update the script to spam fake sighnups to the site to generate fake traffic and put un-necessary load on their servers.)
 
 ```py
 py postspammer.py
